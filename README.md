@@ -1,6 +1,6 @@
 # nextjs-starter-kit
 
-This is a [Next.js](https://nextjs.org/) starter kit powered by [Typescript](https://www.typescriptlang.org/).
+This is a [Next.js](https://nextjs.org/) starter kit powered by [Typescript](https://www.typescriptlang.org/) and [tailwindcss](https://tailwindcss.com).
 
 ## Getting Started
 
