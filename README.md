@@ -26,4 +26,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 | react        | 18.2.0  |
 | react-dom    | 18.2.0  |
 | typescript   | 4.9.4   |
-| tailwindcss  | 3.2.4   |
+| tailwindcss  | ^3.2.4  |
+| react-use    | ^17.4.0 |
+| clsx         | ^1.2.1  |
